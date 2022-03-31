@@ -1,0 +1,22 @@
+
+.text {
+    font-family: monospace;
+}
+
+.a {
+    font-size: 24px;
+}
+
+.to {
+    font-size: 25px;
+    color: maroon;
+    background-color: goldenrod;
+}
+
+.to.buy {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.burger {
+    width: 500px;
+}
